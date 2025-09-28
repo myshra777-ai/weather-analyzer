@@ -34,7 +34,7 @@ A modular, cloud-ready weather analysis tool built for real-world deployment. De
 
 The GUI launches a local Flask server and allows users to enter a city name to fetch real-time weather data.
 
-![Weather GUI Live](weather-gui-live.png)
+![Weather GUI Live](weather-gui.png)
 
 Access it at:  
 `http://127.0.0.1:5000`
