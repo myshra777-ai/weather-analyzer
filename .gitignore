@@ -1,0 +1,8 @@
+.env
+*.pdf
+*.pem
+*.mp3
+*.exe
+*.webp
+*.mp4
+__pycache__/
